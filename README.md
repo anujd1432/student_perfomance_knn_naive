@@ -5,7 +5,7 @@ A Machine Learning web application that predicts a student's grade class based o
 ---
 
 ## 🚀 Live Demo
-👉 (Add your deployed Streamlit link here)
+👉 https://studentperfomanceknnnaive-hmrekvzarxkgrznsfzj67o.streamlit.app/
 
 ---
 
