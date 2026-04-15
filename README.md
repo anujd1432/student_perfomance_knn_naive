@@ -1,6 +1,6 @@
 # 🎓 Student Grade Class Prediction App
 
-A Machine Learning web application that predicts a student's grade class based on academic and personal factors. Built using Scikit-learn and deployed with Streamlit for real-time predictions.
+A Machine Learning web application that predicts a student's grade class based on academic and personal factors. build using machine leaarning models knn and naive bayesed . Built using Scikit-learn and deployed with Streamlit for real-time predictions.
 
 ---
 
